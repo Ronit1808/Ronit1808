@@ -72,7 +72,7 @@ An AI-powered blogging platform to simplify content creation.
 
 ## 📬 Contact Me
 - 📧 Email: [ronit1808@gmail.com](mailto:ronit1808@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ronit-gupta](https://www.linkedin.com/in/ronit-gupta/)
+- 💼 LinkedIn: [linkedin.com/in/ronit-gupta](https://www.linkedin.com/in/ronit-gupta18)
 - 🐙 GitHub: [github.com/Ronit1808](https://github.com/Ronit1808)
 
 ---
